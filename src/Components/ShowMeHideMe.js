@@ -8,7 +8,7 @@ function ShowMeHideMe(){
 
     return(
         <div>
-            <h4>Задание 4. Счетчик, кнопка, увеличивающая значение на 1. </h4>
+            <h4>ЗЗадание 4. Покажи/спрячь элемент на экране </h4>
             <h4>Проверяется img, conditional rendering, onClick </h4>
 
             <button onClick={ ()=> setShowMePicture(!showMePicture)}> {showMePicture ? "HIDE ME" : "SHOW ME"} </button>
