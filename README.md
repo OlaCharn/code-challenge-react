@@ -19,5 +19,18 @@
 ### `Components/ShowMeHideMe.js`
 Проверяется img, conditional rendering, onClick
 
+## Задание 5. Input-получить то, что пишет пользователь (Data Binding Exercise)
+### `Components/ShowInput.js`
+Проверяется input, e.target.value
+
+## Задание 6. Input + Button Submit. Сделать так, чтобы кнопка submit срабатывала только тогда, когда в строке есть хоть 1 символ
+### `Components/InputSubmit.js`
+Проверяется input, e.target.value, onClick, button disabled
+
+## Задание 7. Передать из child в parent компонент Update state
+### `Components/ParentChild/Parent.js` `Components/ParentChild/Child.js`
+Проверяется передача props, передача состояения, понимание parent/child
+
+
 
 

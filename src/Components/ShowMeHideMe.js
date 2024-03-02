@@ -8,8 +8,8 @@ function ShowMeHideMe(){
 
     return(
         <div>
-            <h4>ЗЗадание 4. Покажи/спрячь элемент на экране </h4>
-            <h4>Проверяется img, conditional rendering, onClick </h4>
+            <h4>Задание 4. Покажи/спрячь элемент на экране </h4>
+            <h5>Проверяется img, conditional rendering, onClick </h5>
 
             <button onClick={ ()=> setShowMePicture(!showMePicture)}> {showMePicture ? "HIDE ME" : "SHOW ME"} </button>
             {showMePicture && <img src={You} alt="youpic" width="120px" /> }  
