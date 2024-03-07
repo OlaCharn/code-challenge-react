@@ -31,6 +31,11 @@
 ### `Components/ParentChild/Parent.js` `Components/ParentChild/Child.js`
 Проверяется передача props, передача состояения, понимание parent/child
 
+## Задание 8. Sum of Two Numbers
+### `Components/SumOfTwoNumbers.js` 
+Проверяется input, useState, onClick, onChange
+
+
 
 
 

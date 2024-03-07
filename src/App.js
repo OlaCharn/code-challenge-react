@@ -6,6 +6,7 @@ import Parent from './Components/ParentChild/Parent';
 import ShowInput from './Components/ShowInput';
 import ShowMeHideMe from './Components/ShowMeHideMe';
 import SimpleJSX from './Components/SimpleJSX';
+import SumOfTwoNumbers from './Components/SumOfTwoNumbers';
 import UsersArray from './Components/UsersArray';
 
 function App() {
@@ -18,6 +19,8 @@ function App() {
       <ShowInput />
       <InputSubmit />
       <Parent/> 
+      <SumOfTwoNumbers />
+      
     </div>
   );
 }
